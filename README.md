@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasaddsahil07&label=Profile%20views&color=0e75b6&style=flat" alt="prasaddsahil07" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently exploring **Tech**
 
 - 💬 Ask me about **Web, Development,MERN**
 
